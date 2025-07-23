@@ -64,7 +64,7 @@ local SelectedSeed, AutoPlantRandom, AutoPlant, AutoHarvest, AutoBuy, SellThresh
 
 local function CreateWindow()
 	local Window = ReGui:Window({
-		Title = `{GameInfo.Name} | Depso`,
+		Title = `{GameInfo.Name} | Zynn`,
         Theme = "GardenTheme",
 		Size = UDim2.fromOffset(300, 200)
 	})
